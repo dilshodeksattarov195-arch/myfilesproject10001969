@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggeruerify",
+        "uuid": 19615178,
+        "checksum": "xmpkq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
